@@ -1,0 +1,1890 @@
+.logo{
+    width: 100%;
+    max-width: 198px;
+    height: 51px;
+
+    
+}
+
+*{
+    background-color: #131B23;
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+     font-family: 'Outfit', sans-serif;
+     font-style: medium;
+}
+.logo{
+    max-width: 62px;
+    height: 51px;
+    width: 100%;
+}
+
+.navcl{
+    width: 500px;
+    height: 50px;
+    border-radius: 30px;
+    gap: 30px;
+    background-color:rgba(31, 43, 55, 1); 
+    
+    flex-wrap: wrap;
+    
+}
+.nv{
+    gap: 20px ;
+    justify-content: center;
+    align-items: center;
+}
+
+.ed{
+    font-size: 20px;
+    font-weight: 600;
+      color: #fff; 
+}
+
+.book{
+    padding: 13px 20px 13px 20px;
+    border: 1px solid;
+    color: linear-gradient(90deg, #E1306C 0%, #F77737 100%);
+    border-radius: 45px;
+    color:#e1306c;
+
+}
+
+.gradient-btn {
+  background: transparent;
+  color: #ff4d8d;
+  padding: 12px 28px;
+  border-radius: 50px;
+  font-size: 16px;
+  cursor: pointer;
+
+  border: 2px solid transparent;
+  background-image:
+    linear-gradient(#0b1a24, #0b1a24),
+    linear-gradient(90deg, #ff4d8d, #ff8c42);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+
+
+.navcl ul li{
+    flex-direction: row;
+    list-style: none;
+    cursor: pointer;
+}
+
+
+.norway{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Norwaystext{
+    font-size: 50px;
+    font-style: Outfit;
+    font-weight: 600;
+    line-height: 65px;
+    color: #FFFFFF;
+    max-width: 900px;
+}
+.agency{
+    font-size: 50px;
+    font-style: Outfit;
+    font-weight: 600;
+    line-height: 65px;
+    color: #FFFFFF;
+}
+
+.Welcome{
+    font-style: Outfit;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    width: 1010px;
+    color: #FFFFFF;
+}
+.btnsch{
+    display: flex;
+    gap: 20px;
+}
+
+.lets{
+    
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 13px 20px 13px 20px;
+    border-radius: 55px;
+    border: none;
+
+    background: linear-gradient(270deg, #F77737 0%, #E1306C 100%);
+
+}
+
+.bookfree{
+    border: 1px solid #FFFFFF;
+    padding: 13px 20px 13px 20px;
+    border-radius: 45px;
+    color: #FFFFFF;
+
+}
+
+.imagesgallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: 30px;
+    
+}
+
+.imagesgalleryimg{
+    max-width: 230px;
+    width: 100%;
+    border-radius: 10px;
+    height: 250px;
+    
+}
+.diddiv{
+  border: 1px solid #7A7A7A;
+
+  padding: 20px;
+  border-radius: 10px;
+}
+.did{
+
+    line-height: 100%;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+      
+}
+.If{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    width:700px;
+    color: #FFFFFF;
+}
+.Visibility{
+     font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    width:700px;
+    color: #FFFFFF;
+}
+.know{
+    gap: 25px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+      margin-top: 100px;
+}
+.nintythreediv{
+    border: 1px solid #7A7A7A;
+    padding: 30px 20px 30px 20px;
+    border-radius: 10px;
+    
+}
+.lineimg{
+    max-width: 211px;
+    height: 6px;
+    width: 100%;
+}
+.nintythree{
+color: #FFFFFF;
+font-size: 32px;
+font-weight: 600;
+font-family: Outfit;
+}
+.of{
+color: #FFFFFF;
+font-size: 20px;
+font-weight: 400;
+font-family: Outfit;
+margin-bottom: 30px;
+}
+
+.twohundred{
+color: #FFFFFF;
+font-size: 32px;
+font-weight: 600;
+font-family: Outfit;
+}
+.higher{
+color: #FFFFFF;
+font-size: 20px;
+font-weight: 400;
+font-family: Outfit;
+}
+.line{
+    width: 212px;
+    height: 0px;
+    background-color:#FFFFFF ;
+}
+.twohundreddiv{
+    border: 1px solid #7A7A7A;
+    padding: 30px 20px 30px 20px;
+    border-radius: 10px;
+    
+}
+.about{
+       color: #FFFFFF;
+font-size: 40px;
+font-weight: 600;
+font-family: Outfit;
+}
+.we{
+   color: #FFFFFF;
+font-size: 20px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 630px;
+}
+
+.at{
+     color: #FFFFFF;
+font-size: 20px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 630px;
+/* line-height: 28; */
+}
+.from{
+      color: #FFFFFF;
+font-size: 20px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 600px
+}
+.aboutdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* margin-left: 90px; */
+    align-items: center;
+    flex-direction: row;
+    gap: 83px;
+    margin-top: 110px;
+    flex-wrap: wrap;
+}
+.meet{
+    margin-top: 25px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 13px 20px 13px 20px;
+    border-radius: 55px;
+    border: none;
+
+    background: linear-gradient(270deg, #F77737 0%, #E1306C 100%);
+
+}
+
+.group{
+    max-width: 380px;
+    width: 100%;
+    height: 163px;
+    border: 3px;
+}
+.groupdiv{
+ 
+    border: 1px solid #7A7A7A;
+   padding: 171px 60px 66px 60px;
+    
+}
+
+.What{
+    color: #FFFFFF;
+font-size: 40px;
+font-weight: 600;
+font-family: Outfit;
+}
+.atthe{
+color: #FFFFFF;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+}
+.whatisdiv{
+    margin-left: 90px;
+  
+    margin-top: 120px;
+}
+.platformdiv{
+    
+     max-width: 550px;
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+     padding: 25px 25px 0px 25px;
+     border-radius: 10px;
+     border: 1px solid rgba(122, 122, 122, 1);
+     gap: 20px;
+}
+
+.platform{
+    color: rgba(225, 48, 108, 1);
+
+}
+.icons{
+    max-width:  572px;
+    height: 339px;
+    width: 100%;
+}
+.Illustrations{
+    max-width:  572px;
+    height: 339px;
+    width: 100%;
+}
+.plaudiv{
+    gap: 25px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.audiencediv{
+     max-width: 550px;
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+     padding: 25px 25px 0px 25px;
+     border-radius: 10px;
+     border: 1px solid rgba(122, 122, 122, 1);
+     gap: 20px;
+}
+
+.audience{
+    color: rgba(225, 48, 108, 1);
+
+}
+
+.myanalytics{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    border: 1px solid rgba(122, 122, 122, 1);
+    padding: 20px 25px 20px 0px;
+}
+.analyticsdiv{
+    max-width: 730px;
+    margin-top: 20px;
+       /* padding: 20px 25px 20px 0px; */
+    
+}
+.analytics{
+    color: rgba(225, 48, 108, 1);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+}
+.through{
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+}
+.performance{
+    border-radius: 6px;
+    max-width: 550px;
+    height: 250px;
+    width:100%;
+}
+.fbinstadiv{
+border: 1px solid rgba(122, 122, 122, 1);
+
+}
+
+
+.fbinsta{
+max-width:313.51px ;
+width: 100%;
+height:347.34px;
+
+
+
+}
+.starts{
+font-weight:500;
+font-size:40px;
+line-height: 100%;
+ color: #FFFFFF;
+}
+
+.believe{
+font-weight:400;
+font-size:20px;
+line-height: 28px;
+ color: #FFFFFF;
+}
+.fbstartsdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-top: 130px;
+    flex-wrap: wrap;
+}
+
+.believediv{
+max-width: 700px;
+}
+.listsdata{
+font-weight:400;
+font-size:20px;
+line-height: 28px;
+ color: #FFFFFF;
+}
+.mixdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 17.81px;
+    flex-wrap: wrap;
+    margin-bottom: 219px;
+    
+}
+.your{
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 100%;
+    color:#FFFFFF ;
+}
+
+.frstboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 54.04px;
+    margin-left: 17.04px;
+
+
+}
+.scndboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-right: 71px;
+    margin-bottom: 51px;
+}
+.trdgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+}
+.they{
+    font-weight:400;
+font-size:20px;
+line-height: 28px;
+ color: #FFFFFF;
+ 
+}
+.ahead{
+    text-align: center;
+}
+.mixdiv{
+    margin-top: 223px;
+}
+
+.theydiv{
+max-width: 1000px;
+margin-top: 25px;
+}
+.ourteamdiv{
+    max-width: 1000px;
+}
+.ourteam{
+    font-weight:400;
+font-size:20px;
+line-height: 28px;
+ color: #FFFFFF;
+ 
+}
+
+.Schedule{
+    margin-top: 25px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 13px 20px 13px 20px;
+    border-radius: 55px;
+    border: none;
+    
+    background: linear-gradient(270deg, #F77737 0%, #E1306C 100%);
+
+}
+.Schedulediv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.frthgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+
+}
+.fthboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-left: 75px;
+    margin-top: 66.06px;
+    margin-bottom: 64px;
+    
+}
+.sixthgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+}
+.lastimgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ahead{
+    
+    display: block; 
+  text-align: center;
+}
+.dont{
+      display: block; 
+  text-align: center;
+}
+
+@media (max-width:480px){
+    
+.navul ul li{
+    padding: 10px;
+}
+    .ham{
+        max-width: 50px;
+        
+        width: 100%;
+        height: 45px;
+        position: relative;
+        bottom: 50px;
+        right: 150px;
+    }
+    .Welcome{
+
+    font-style: Outfit;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    max-width: 360px;
+    color: #FFFFFF;
+}
+.norway{
+    padding-bottom: 100px;
+}
+
+.Norwaystext{
+    font-size: 20px;
+    font-style: Outfit;
+    font-weight: 600;
+    line-height: 65px;
+    color: #FFFFFF;
+    max-width: 500px;
+}
+.agency{
+    font-size: 20px;
+    font-style: Outfit;
+    font-weight: 600;
+    line-height: 65px;
+    color: #FFFFFF;
+}
+.imagesgallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.know{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 300px;
+    
+
+}
+
+.diddiv{
+  border: 1px solid #7A7A7A;
+ 
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 250px;
+ 
+}
+
+
+.did{
+
+    line-height: 100%;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+      
+}
+.If{
+    font-weight: 200;
+    font-size: 12px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+    max-width: 230px;
+}
+.Visibility{
+     font-weight: 200;
+    font-size: 12px;
+    line-height: 28px;
+
+    max-width: 230px;
+    color: #FFFFFF;
+}
+
+.about{
+       color: #FFFFFF;
+font-size: 30px;
+font-weight: 400;
+font-family: Outfit;
+
+}
+.we{
+   color: #FFFFFF;
+font-size: 17px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+}
+
+.at{
+     color: #FFFFFF;
+font-size: 15px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+
+}
+.from{
+      color: #FFFFFF;
+font-size: 15px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+}
+.aboutdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+    flex-direction: row;
+    gap: 83px;
+    margin-top: 110px;
+    flex-wrap: wrap;
+}
+
+
+.What{
+    color: #FFFFFF;
+font-size: 30px;
+font-weight: 500;
+font-family: Outfit;
+}
+.atthe{
+color: #FFFFFF;
+font-size: 14px;
+
+line-height: 28px;
+max-width: 300px;
+
+}
+.whatisdiv{
+    
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 250px;
+
+}
+.platformdiv{
+    
+     max-width: 550px;
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+     padding: 25px 25px 0px 25px;
+     border-radius: 10px;
+     border: 1px solid rgba(122, 122, 122, 1);
+     gap: 20px;
+}
+
+.platform{
+    color: rgba(225, 48, 108, 1);
+    font-size: 17px;
+
+
+}
+.wepick{
+  color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+.audience{
+    color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+
+.icons{
+    max-width:  350px;
+    height: 239px;
+    width: 100%;
+}
+
+.plaudiv{
+    gap: 25px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+   
+    padding: 30px;
+}
+
+.audiencediv{
+     
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+     padding: 25px 25px 0px 25px;
+     border-radius: 10px;
+     border: 1px solid rgba(122, 122, 122, 1);
+     gap: 20px;
+}
+
+.audience{
+    color: rgba(225, 48, 108, 1);
+    font-size: 18px;
+
+}
+.analytics{
+    color: rgba(225, 48, 108, 1);
+    font-size: 18px;
+    
+}
+.analyticsdiv{
+    max-width: 350px;
+}
+.myanalytics{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    
+    padding: 25px 25px 0px 25px;
+
+   
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.ourapproach{
+     color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+.through{
+       color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+
+.Illustrations{
+      max-width:  350px;
+    height: 239px;
+    width: 100%;
+}
+.performance{
+    border-radius: 6px;
+    max-width:200px;
+    height: 140px;
+    width:100%;
+}
+.fbinstadiv{
+border: 1px solid rgba(122, 122, 122, 1);
+
+}
+
+
+.fbinsta{
+max-width:300px ;
+width: 100%;
+height:200x;
+
+
+
+}
+.starts{
+font-weight:500;
+font-size:20px;
+line-height: 100%;
+ color: #FFFFFF;
+}
+
+.believe{
+font-weight:400;
+font-size:14px;
+line-height: 28px;
+ color: #FFFFFF;
+}
+.fbstartsdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-top: 130px;
+    flex-wrap: wrap;
+}
+
+.startsdiv{
+max-width: 400px;
+margin-left: 50px;
+}
+.listsdata{
+font-weight:400;
+font-size:15px;
+line-height: 28px;
+ color: #FFFFFF;
+}
+.mixdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 17.81px;
+    flex-wrap: wrap;
+    margin-bottom: 200px;
+    
+}
+ .yourdata{
+    max-width: 340px;
+ }
+
+.your{
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color:#FFFFFF ;
+
+}
+
+.frstboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 54.04px;
+    margin-left: 17.04px;
+
+
+}
+.scndboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-right: 71px;
+    margin-bottom: 51px;
+}
+.trdgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+}
+.they{
+    font-weight:300;
+font-size:15px;
+line-height: 28px;
+ color: #FFFFFF;
+ 
+}
+.ahead{
+    text-align: center;
+}
+
+.ourteam{
+    font-weight:400;
+     font-size: 15px;
+line-height: 28px;
+ color: #FFFFFF;
+ 
+}
+
+.Schedule{
+    margin-top: 25px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 13px 20px 13px 20px;
+    border-radius: 55px;
+    border: none;
+    
+    background: linear-gradient(270deg, #F77737 0%, #E1306C 100%);
+
+}
+.Schedulediv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.frthgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+
+}
+.fthboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-left: 75px;
+    margin-top: 66.06px;
+    margin-bottom: 64px;
+    
+}
+.sixthgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+}
+.lastimgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+}
+
+
+@media (min-width:481px) and (max-width:767px){
+    .ham{
+        max-width: 50px;
+        
+        width: 100%;
+        height: 45px;
+        position: relative;
+        bottom: 50px;
+        right: 50px;
+    }
+    .navul{
+        flex-wrap: wrap;
+    }
+    
+    .book{
+    padding: 13px 20px 13px 20px;
+   
+    
+    border: linear-gradient(90deg, #E1306C 0%, #F77737 100%);
+
+
+    border-radius: 45px;
+    text-wrap: nowrap;
+    color:#e1306c;
+    
+    }
+    .Welcome{
+    font-style: Outfit;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    max-width: 400px;
+    color: #FFFFFF;
+}
+.Norwaystext{
+    font-size: 40px;
+ 
+    font-weight: 600;
+    line-height: 65px;
+    color: #FFFFFF;
+    max-width: 500px;
+}
+.agency{
+     font-size: 40px;
+   
+    font-weight: 600;
+    line-height: 65px;
+    color: #FFFFFF;
+    max-width: 480px;
+}
+.imagesgallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2px;
+}
+.know{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.diddiv{
+  border: 1px solid #7A7A7A;
+ 
+  padding: 10px;
+  border-radius: 10px;
+ 
+}
+
+
+.did{
+
+    line-height: 100%;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+      
+}
+.If{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    width:900px;
+    color: #FFFFFF;
+    max-width: 400px;
+}
+.Visibility{
+     font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+   
+    max-width: 400px;
+    color: #FFFFFF;
+}
+
+.about{
+       color: #FFFFFF;
+font-size: 30px;
+font-weight: 400;
+font-family: Outfit;
+
+}
+.we{
+   color: #FFFFFF;
+font-size: 17px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+}
+
+.at{
+     color: #FFFFFF;
+font-size: 15px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+
+}
+.from{
+      color: #FFFFFF;
+font-size: 15px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+}
+.aboutdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+    flex-direction: row;
+    gap: 83px;
+    margin-top: 110px;
+    flex-wrap: wrap;
+}
+
+
+.What{
+    color: #FFFFFF;
+font-size: 30px;
+font-weight: 500;
+font-family: Outfit;
+}
+.atthe{
+color: #FFFFFF;
+font-size: 14px;
+
+line-height: 28px;
+
+
+}
+.whatisdiv{
+   
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+.platformdiv{
+    
+     max-width: 550px;
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+     padding: 25px 25px 0px 25px;
+     border-radius: 10px;
+     border: 1px solid rgba(122, 122, 122, 1);
+     gap: 20px;
+}
+
+.platform{
+    color: rgba(225, 48, 108, 1);
+    font-size: 17px;
+
+
+}
+.wepick{
+  color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+.audience{
+    color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+
+.icons{
+    max-width:  350px;
+    height: 239px;
+    width: 100%;
+}
+
+.plaudiv{
+    gap: 25px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    
+    padding: 30px;
+}
+
+.audiencediv{
+     
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+     padding: 25px 25px 0px 25px;
+     border-radius: 10px;
+     border: 1px solid rgba(122, 122, 122, 1);
+     gap: 20px;
+}
+
+.audience{
+    color: rgba(225, 48, 108, 1);
+    font-size: 18px;
+
+}
+.analytics{
+    color: rgba(225, 48, 108, 1);
+    font-size: 18px;
+    
+}
+.analyticsdiv{
+    max-width: 350px;
+}
+.myanalytics{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    
+    padding: 20px 25px 20px 0px;
+
+    
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.ourapproach{
+     color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+.through{
+       color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+
+.Illustrations{
+      max-width:  350px;
+    height: 239px;
+    width: 100%;
+}
+.performance{
+    border-radius: 6px;
+    max-width:200px;
+    height: 140px;
+    width:100%;
+}
+.fbinstadiv{
+border: 1px solid rgba(122, 122, 122, 1);
+
+}
+
+
+.fbinsta{
+max-width:300px ;
+width: 100%;
+height:200x;
+
+
+
+}
+.starts{
+font-weight:500;
+font-size:20px;
+line-height: 100%;
+ color: #FFFFFF;
+}
+
+.believe{
+font-weight:400;
+font-size:15px;
+line-height: 28px;
+ color: #FFFFFF;
+}
+.fbstartsdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-top: 130px;
+    flex-wrap: wrap;
+}
+
+.startsdiv{
+max-width: 400px;
+}
+.listsdata{
+font-weight:400;
+font-size:15px;
+line-height: 28px;
+ color: #FFFFFF;
+}
+.mixdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 17.81px;
+    flex-wrap: wrap;
+    margin-bottom: 200px;
+    
+}
+ .yourdata{
+    max-width: 340px;
+ }
+
+.your{
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color:#FFFFFF ;
+
+}
+
+.frstboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 54.04px;
+    margin-left: 17.04px;
+
+
+}
+.scndboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-right: 71px;
+    margin-bottom: 51px;
+}
+.trdgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+}
+.they{
+    font-weight:300;
+font-size:15px;
+line-height: 28px;
+ color: #FFFFFF;
+ 
+}
+.ahead{
+    text-align: center;
+}
+
+.ourteam{
+    font-weight:400;
+     font-size: 15px;
+line-height: 28px;
+ color: #FFFFFF;
+ 
+}
+
+.Schedule{
+    margin-top: 25px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 13px 20px 13px 20px;
+    border-radius: 55px;
+    border: none;
+    
+    background: linear-gradient(270deg, #F77737 0%, #E1306C 100%);
+
+}
+.Schedulediv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.frthgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+   
+
+}
+.fthboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-left: 75px;
+    margin-top: 66.06px;
+    margin-bottom: 64px;
+    
+}
+.sixthgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+}
+.lastimgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+}
+@media (min-width:768px) and (max-width:1024px){
+    .nv{
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .home{
+        border: 1px solid;
+        border-image-source: linear-gradient(180deg, #E1306E 0%, #1877F2 100%);
+        
+
+
+
+    }
+    .home:hover{
+        padding: 15px 14px 15px 14px;
+    }
+    .navhover ul li{
+        list-style: none;
+        padding: 10px;
+    } 
+    .book{
+    padding: 13px 20px 13px 20px;
+   
+    
+    border: linear-gradient(90deg, #E1306C 0%, #F77737 100%);
+
+
+    border-radius: 45px;
+    color:#e1306c;
+    
+    }
+    .Welcome{
+    font-style: Outfit;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    max-width: 400px;
+    color: #FFFFFF;
+}
+.Norwaystext{
+    font-size: 40px;
+    
+    font-weight: 600;
+    line-height: 65px;
+    color: #FFFFFF;
+   
+}
+.agency{
+     font-size: 40px;
+   
+    font-weight: 600;
+    line-height: 65px;
+    color: #FFFFFF;
+    max-width: 480px;
+}
+.imagesgallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.know{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.diddiv{
+  border: 1px solid #7A7A7A;
+  
+  padding: 10px;
+  border-radius: 10px;
+
+}
+
+
+.did{
+
+    line-height: 100%;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+      
+}
+.If{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    width:900px;
+    color: #FFFFFF;
+    max-width: 400px;
+}
+.Visibility{
+     font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    
+    max-width: 400px;
+    color: #FFFFFF;
+}
+
+.about{
+       color: #FFFFFF;
+font-size: 30px;
+font-weight: 400;
+font-family: Outfit;
+
+}
+.we{
+   color: #FFFFFF;
+font-size: 17px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+}
+
+.at{
+     color: #FFFFFF;
+font-size: 15px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+
+}
+.from{
+      color: #FFFFFF;
+font-size: 15px;
+font-weight: 400;
+font-family: Outfit; 
+max-width: 300px;
+}
+.aboutdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+    flex-direction: row;
+    gap: 83px;
+    margin-top: 110px;
+    flex-wrap: wrap;
+}
+
+
+.What{
+    color: #FFFFFF;
+font-size: 30px;
+font-weight: 500;
+font-family: Outfit;
+}
+.atthe{
+color: #FFFFFF;
+font-size: 14px;
+line-height: 28px;
+
+
+}
+.whatisdiv{
+    
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+.platformdiv{
+
+     max-width: 550px;
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+     padding: 25px 25px 0px 25px;
+     border-radius: 10px;
+     border: 1px solid rgba(122, 122, 122, 1);
+     gap: 20px;
+}
+
+.platform{
+    color: rgba(225, 48, 108, 1);
+    font-size: 17px;
+
+
+}
+.wepick{
+  color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+.audience{
+    color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+
+.icons{
+    max-width:  350px;
+    height: 239px;
+    width: 100%;
+}
+
+.plaudiv{
+    gap: 25px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    
+    padding: 30px;
+}
+
+.audiencediv{
+    
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+     padding: 25px 25px 0px 25px;
+     border-radius: 10px;
+     border: 1px solid rgba(122, 122, 122, 1);
+     gap: 20px;
+}
+
+.audience{
+    color: rgba(225, 48, 108, 1);
+    font-size: 18px;
+
+}
+.analytics{
+    color: rgba(225, 48, 108, 1);
+    font-size: 18px;
+    
+}
+.analyticsdiv{
+    max-width: 350px;
+}
+.myanalytics{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    
+    padding: 20px 25px 20px 0px;
+
+    
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.ourapproach{
+     color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+.through{
+       color: #FFFFFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+}
+
+.Illustrations{
+      max-width:  350px;
+    height: 239px;
+    width: 100%;
+}
+.performance{
+    border-radius: 6px;
+    max-width:200px;
+    height: 140px;
+    width:100%;
+}
+.fbinstadiv{
+border: 1px solid rgba(122, 122, 122, 1);
+
+}
+
+
+.fbinsta{
+max-width:300px ;
+width: 100%;
+height:200x;
+
+
+
+}
+.starts{
+font-weight:500;
+font-size:20px;
+line-height: 100%;
+ color: #FFFFFF;
+}
+
+.believe{
+font-weight:400;
+font-size:15px;
+line-height: 28px;
+ color: #FFFFFF;
+}
+.fbstartsdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-top: 130px;
+    flex-wrap: wrap;
+}
+
+.startsdiv{
+max-width: 400px;
+}
+.listsdata{
+font-weight:400;
+font-size:15px;
+line-height: 28px;
+ color: #FFFFFF;
+}
+.mixdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 17.81px;
+    flex-wrap: wrap;
+    margin-bottom: 200px;
+  
+}
+ .yourdata{
+    max-width: 340px;
+ }
+
+.your{
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color:#FFFFFF ;
+
+}
+
+.frstboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 54.04px;
+    margin-left: 17.04px;
+
+
+}
+.scndboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-right: 71px;
+    margin-bottom: 51px;
+}
+.trdgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+}
+.they{
+    font-weight:300;
+font-size:15px;
+line-height: 28px;
+ color: #FFFFFF;
+ 
+}
+.ahead{
+    text-align: center;
+}
+
+.ourteam{
+    font-weight:400;
+     font-size: 15px;
+line-height: 28px;
+ color: #FFFFFF;
+ 
+}
+
+.Schedule{
+    margin-top: 25px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 13px 20px 13px 20px;
+    border-radius: 55px;
+    border: none;
+    
+    background: linear-gradient(270deg, #F77737 0%, #E1306C 100%);
+
+}
+.Schedulediv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.frthgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    /* margin-right: 150px; */
+
+}
+.fthboy{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    margin-left: 75px;
+    margin-top: 66.06px;
+    margin-bottom: 64px;
+    
+}
+.sixthgirl{
+    max-width: 93px;
+    height: 100px;
+    width: 100%;
+    border-radius: 4px;
+    
+}
+.lastimgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+}
